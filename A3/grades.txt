@@ -1,0 +1,7 @@
+Victor Frankenstein,B+,B-,D,F,C-,53,36,55,95
+Robert Walton,C-,B,D,F,A-,100,62,37,99
+Justine Moritz,C+,A+,C,B+,C-,90,77,39,65
+Elizabeth Lavenza,B-,D-,C,A-,B+,91,78,40,66
+Henry Clerval,F,D+,A,B-,A-,85,98,52,88
+Caroline Beaufort,C+,B+,B,A-,B-,83,92,100,88
+The Monster,A+,A,A,A,A,100,100,100,100

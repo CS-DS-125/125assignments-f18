@@ -1,0 +1,15 @@
+{
+  "name": "Assignment 4: Data Visualization",
+  "endpoint": "iwu/csds125/fa18/A4",
+  "src": [
+    "A4.ipynb"
+  ],
+  "tests": {
+    "tests/qdummy.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}

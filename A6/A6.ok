@@ -1,0 +1,15 @@
+{
+  "name": "Assignment 6: Data Manipulation",
+  "endpoint": "iwu/csds125/fa18/A6",
+  "src": [
+    "A6.ipynb"
+  ],
+  "tests": {
+    "tests/qdummy.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
